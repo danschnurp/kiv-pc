@@ -1,2 +1,3 @@
-# kiv-pc
-school project (2019/2020)
+# school project - programming in ANSI C (2019/2020)
+
+
